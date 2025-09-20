@@ -45,24 +45,6 @@ With **DecentraStore**:
 - **Blockchain**: Ethereum (tested with Ganache + MetaMask)  
 - **Royalties**: ERC-2981 standard  
 
----
-
-## 🚀 Features Implemented (Phase 1)  
-✅ Mint NFTs (dataset / model / file).  
-✅ Store metadata & files on IPFS.  
-✅ NFT ownership tracked on blockchain.  
-✅ Connect MetaMask wallet to interact.  
-
----
-
-## 🔮 Features in Progress (Phase 2)  
-🔹 Buy & Sell NFTs directly from the marketplace.  
-🔹 Automatic royalty payouts to creators.  
-🔹 User login with multiple wallets.  
-🔹 Deployment on public Ethereum testnet (Sepolia).  
-
----
-
 ## 🛠️ How to Run Locally  
 1. Clone repo:  
    ```bash
